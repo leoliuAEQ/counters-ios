@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					CE86E36B1EFDBF1800E1954C = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 2LUTMUNS9W;
 						ProvisioningStyle = Automatic;
 					};
 					CE86E3811EFDBF1800E1954C = {
@@ -418,6 +419,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2LUTMUNS9W;
 				INFOPLIST_FILE = Counters/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.aequilibrium.Counters;
@@ -430,6 +432,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2LUTMUNS9W;
 				INFOPLIST_FILE = Counters/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.aequilibrium.Counters;
@@ -511,6 +514,7 @@
 				CE86E3981EFDBF1800E1954C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE86E3991EFDBF1800E1954C /* Build configuration list for PBXNativeTarget "CountersTests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +523,7 @@
 				CE86E39B1EFDBF1800E1954C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE86E39C1EFDBF1800E1954C /* Build configuration list for PBXNativeTarget "CountersUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +532,7 @@
 				CE86E39E1EFDBF1800E1954C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
