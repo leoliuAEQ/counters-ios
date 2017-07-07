@@ -422,9 +422,11 @@
 				DEVELOPMENT_TEAM = 2LUTMUNS9W;
 				INFOPLIST_FILE = Counters/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = ca.aequilibrium.Counters;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				VALID_ARCHS = "arm64 armv7 armv7s $(ARCHS_STANDARD)";
 			};
 			name = Debug;
 		};
@@ -435,9 +437,11 @@
 				DEVELOPMENT_TEAM = 2LUTMUNS9W;
 				INFOPLIST_FILE = Counters/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = ca.aequilibrium.Counters;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				VALID_ARCHS = "arm64 armv7 armv7s $(ARCHS_STANDARD)";
 			};
 			name = Release;
 		};
