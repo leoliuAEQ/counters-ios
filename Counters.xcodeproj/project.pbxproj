@@ -431,6 +431,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VALID_ARCHS = "arm64 armv7 armv7s $(ARCHS_STANDARD)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
