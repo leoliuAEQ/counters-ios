@@ -419,8 +419,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Leo Liu (GM53WWZ3JR)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Leo Liu (GM53WWZ3JR)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Gerald Gutierrez (4WXX4N9FEN)";
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2LUTMUNS9W;
 				INFOPLIST_FILE = Counters/Info.plist;
@@ -443,8 +443,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Leo Liu (GM53WWZ3JR)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Leo Liu (GM53WWZ3JR)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Gerald Gutierrez (4WXX4N9FEN)";
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2LUTMUNS9W;
 				INFOPLIST_FILE = Counters/Info.plist;
