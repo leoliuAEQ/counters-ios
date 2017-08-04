@@ -74,6 +74,7 @@ class MasterViewController: UITableViewController {
 
         let object = objects[indexPath.row]
         cell.textLabel!.text = object.description
+        cell.accessibilityIdentifier = String(format: "item-%03d", object)
         return cell
     }
 
